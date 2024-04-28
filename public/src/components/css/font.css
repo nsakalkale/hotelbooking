@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "orbitron";
+  src: url("../fonts/Orbitron/Orbitron-Regular.ttf");
+}
+
+.orbitron {
+  font-family: "orbitron";
+}
+/*ROBOTO*/
+@font-face {
+  font-family: "roboto";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+.roboto {
+  font-family: "roboto";
+}
+@font-face {
+  font-family: "poppins";
+  src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+.poppins {
+  font-family: "poppins";
+}
+
+@font-face {
+  font-family: "cerapro";
+  src: url("../fonts/CeraPro/Cera Pro Regular.otf");
+}
+.cerapro {
+  font-family: "cerapro";
+}
+
+/**/
+@font-face {
+  font-family: "bricolage";
+  src: url("../fonts/Bricolage/BricolageGrotesque_18pt-Regular.ttf");
+}
+
+.bricolage {
+  font-family: "bricolage";
+}
+
+@font-face {
+  font-family: "armatic";
+  src: url("../fonts/Armatic/AmaticSC-Regular.ttf");
+}
+
+.armatic {
+  font-family: "armatic";
+}
